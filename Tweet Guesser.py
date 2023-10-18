@@ -9,10 +9,10 @@ import sys
 import operator
 import itertools
 
-consumer_key = "XTVHb8OVmWDh6Me0J1P2ngHkS"
-consumer_secret = "ZQKjd0jglZhUIvLHt2ByPEp5kXf9DQJm0Atmmqz4MQYOF0Ui9U"
-access_token = "1438000553380962307-XlGvVGQpxgqKlONv4C9NbG5FKsin6J"
-access_token_secret = "rp2sDzFrhQqEfq538EnhLtj3SegEkEeP8SPVVGe6xtwBP"
+consumer_key = "XXXXXXXXXXXXXXXXXXXX"
+consumer_secret = "XXXXXXXXXXXXXXXXXXXX"
+access_token = "XXXXXXXXXXXXXXXXXXXX"
+access_token_secret = "XXXXXXXXXXXXXXXXXXXX"
 
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_token_secret)
